@@ -13,8 +13,6 @@ At least one amendment was made to the articles of incorporation, and it was app
 The following links provide access to the two known STCLC articles of incorporation documents in markdown format:
 *TBD: These documents still need to be located and documented.*
 
-Another document titled as a "Constitution" but referring to itself as "bylaws" was apparently adopted in December, 1989.
-Its content appears to be midway between articles of incorporation and bylaws, and it is unlikely (based on the dates) that it was the amended articles of incorporation.
 The bylaws committee will likely need to invest $5.00 to obtain the full document file from the State of Oregon via [this link](https://sos.oregon.gov/business/Documents/copies-forms/301-request-for-copy.pdf).
 
 ## STCLC restated and amended Bylaws documents
@@ -28,3 +26,5 @@ The following links provide access to the last four STCLC restated and amended b
 The changes between the bylaws versions are [documented here](https://gist.github.com/garhanso/7795202584f9c361576bf86195365965)
 
 We may not need to locate earlier copies of the bylaws documents, although for completeness' sake it might be a good exercise for the committee.
+One text-format document found in the library's file cabinet (titled as a "CONSTITUTION" but referring to itself as "by-laws") was apparently adopted in December, 1989.
+Its content also appears to indicate that it was an earlier bylaws document, and it can be [read here](https://gist.github.com/garhanso/b3fde067dd108392addb75ce3586b324).
