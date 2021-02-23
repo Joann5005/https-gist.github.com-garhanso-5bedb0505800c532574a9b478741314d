@@ -2,14 +2,14 @@
 
 ## Summary of our committee's objectives
 
-*TBD: Discuss our objectives and document them here. Here are some initial suggestions for us to consider:
-* Identify the versions of our controlling documents (articles of incorporation and bylaws) that should be taken into consideration.
-* Determine what changes might be worthwhile to:
-  * make our articles of incorporation more consistent with Oregon state law,
-  * make our bylaws more consistent with our articles of incorporation, and
-  * address issues that have been raised since the current bylaws were approved.
-* Document the issues and the relevant changes that might be made to address those issues.
-* Present the committee's objective thoughts to the board and to the membership for item-by-item consideration and vote(s) to approve specific changes.*
+*TBD: Discuss our objectives and document them here. Here are some initial suggestions for us to consider:*
+* *Identify the versions of our controlling documents (articles of incorporation and bylaws) that should be taken into consideration.*
+* *Determine what changes might be worthwhile to:*
+  * *make our articles of incorporation more consistent with Oregon state law,*
+  * *make our bylaws more consistent with our articles of incorporation, and*
+  * *address issues that have been raised since the current bylaws were approved.*
+* *Document the issues and the relevant changes that might be made to address those issues.*
+* *Present the committee's objective thoughts to the board and to the membership for item-by-item consideration and vote(s) to approve specific changes.*
 
 ## Relevant laws in the State of Oregon 
 
