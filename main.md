@@ -2,21 +2,28 @@
 
 ## Summary of our committee's objectives
 
-*TBD: Discuss our objectives and document them here.*
+*TBD: Discuss our objectives and document them here. Here are some initial suggestions for us to consider:
+* Identify the versions of our controlling documents (articles of incorporation and bylaws) that should be taken into consideration.
+* Determine what changes might be worthwhile to:
+** make our articles of incorporation more consistent with Oregon state law,
+** make our bylaws more consistent with our articles of incorporation,
+** address issues that have been raised since the current bylaws were approved.
+* Document the issues and the relevant changes that might be made to address those issues.
+* Present the committee's objective thoughts to the board and to the membership for item-by-item consideration and vote(s) to approve specific changes.*
 
 ## Relevant laws in the State of Oregon 
 
 Statutory law for nonprofit corporations in the State of Oregon is covered in ORS 65.
-* The 2019 version can be [read here](https://www.oregonlegislature.gov/bills_laws/ors/ors065.html).
+* The 2019 edition can be [read here](https://www.oregonlegislature.gov/bills_laws/ors/ors065.html).
 * Familiarizing ourselves with the current ORS 65 will help us understand what changes our bylaws may need, as relevant law may have changed over the years.
-* We should also double-check if any of the laws passed in 2020 affect what was covered in the 2019 version of ORS 65.
+* We should also double-check if any of the laws passed in 2020 affect what was covered in the 2019 edition of ORS 65.
 
 ## STCLC original and amended Articles of Incorporation documents
 
 There are at least two known versions of the STCLC Articles of Incorporation document.
 * The STCLC nonprofit was created in 1973 and its original articles of incorporation were certified on October 22, 1973.
 * At least one amendment was made to the articles of incorporation, and it was approved on May 2, 1989.
-*TBD: It is unclear whether there were any other amendments made, but if so they were not submitted to the State of Oregon.*
+* *TBD: It is unclear whether there were any other amendments made, but if so they were not submitted to the State of Oregon.*
 
 The following links provide access to the two known STCLC Articles of Incorporation documents in markdown format:
 * *TBD: Find original 1973 articles of incorporation and provide a link here.*
@@ -28,12 +35,15 @@ Here are some relevant references from ORS 65:
 and to the extent that they differ the latter controls.
 * *TBD: Add any other key ORS 65 references...*
 
-Because of the importance that bylaws need to be consistent with the articles of incorporation,
-if we are unable to locate the amended version from 1989 we will
-likely need to invest $5.00 to obtain the full document file from
+Because it is important that bylaws need to be consistent with the articles of incorporation,
+if we are unable to locate the amended version from 1989 we will likely need to invest $5.00 to obtain the full document file from
 the State of Oregon via [this link](https://sos.oregon.gov/business/Documents/copies-forms/301-request-for-copy.pdf).
 
 ## STCLC restated and amended Bylaws documents
+
+The STCLC currently operate per the March, 2007 bylaws.
+A revised draft from December, 2014 was not approved.
+Some of its changes may be worth considering as we review what needs to change from March, 2007 bylaws version.
 
 The following links provide access to the last four STCLC restated and amended bylaws documents in markdown format:
 * [October, 1998](https://gist.github.com/garhanso/b1d0f87588f76b8ef034e970927e0311)
