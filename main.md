@@ -47,15 +47,15 @@ Some of its changes may be worth considering as we review what needs to change f
 
 The following links provide access to the last four STCLC restated and amended bylaws documents in markdown format:
 * [October, 1998](https://gist.github.com/garhanso/b1d0f87588f76b8ef034e970927e0311#file-stclc-bylaws-draft-1998.md)
-* [December, 2006](https://gist.github.com/garhanso/18ef6d9b1abf5c0bf2bd915b77bb3097)
-* [March, 2007](https://gist.github.com/garhanso/94fe818587819427bd69c6142f2f6515)
-* [December, 2014 (unapproved draft)](https://gist.github.com/garhanso/9a551285b8a826c1899c7acf197a5dc9)
+* [December, 2006](https://gist.github.com/garhanso/18ef6d9b1abf5c0bf2bd915b77bb3097#file-stclc-bylaws-draft-2006.md)
+* [March, 2007](https://gist.github.com/garhanso/94fe818587819427bd69c6142f2f6515#file-stclc-bylaws-draft-2007.md)
+* [December, 2014 (unapproved draft)](https://gist.github.com/garhanso/9a551285b8a826c1899c7acf197a5dc9#file-stclc-bylaws-draft-2014.md)
 
-The changes between the four bylaws versions are [documented here](https://gist.github.com/garhanso/7795202584f9c361576bf86195365965)
+The changes between the four bylaws versions are [documented here](https://gist.github.com/garhanso/7795202584f9c361576bf86195365965#file-stclc-bylaws-changes.md).
 
 An earlier text-format document found in the library's file cabinet (titled as a "CONSTITUTION" but referring to itself as "by-laws")
 was apparently adopted in December, 1989.
 Its content also indicates that it was indeed an earlier bylaws document,
-and it can be [read here](https://gist.github.com/garhanso/b3fde067dd108392addb75ce3586b324).
+and it can be [read here](https://gist.github.com/garhanso/b3fde067dd108392addb75ce3586b324#file-stclc-constitution-1989.md).
 
 We may not need to locate earlier copies of the bylaws documents, although for completeness' sake it might be a good exercise for the committee.
