@@ -15,19 +15,19 @@ If they were obligated to form a corporation to enable them to operate as a non-
 then one of them would volunteer to look into how to get that paperwork done.
 And if they wanted to print membership cards, well then, someone would have to go and find out exactly how expensive that might be.
 
-The minutes of that organizational meeting
+The minutes from that organizational meeting
 [(pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
 [(text)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
-shows a recognition that the majority of their work would continue to be fund-raising and finding more members.
+show a recognition that the majority of their work would continue to be fund-raising and finding more members.
 And in the days before email and websites, several of them would need to get on their phones to tell existing and prospective members
 when and where the next meeting would be held.
 They also clearly knew that no organization would survive long without setting up their own "town law" to guide its actions,
 and the brief "Synopsis of by-laws read." statement shows that someone had prepared a draft outline of town law for them to consider.
 
-The six articles in this early draft outline
-[pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
-[text)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
-may not have been that exact synopsis that was read, but it was probably pretty close.
+The undated six articles in this early draft outline
+[(pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
+[(text)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
+may not have been the exact same synopsis that was read, but it was probably pretty close.
 They may have felt like quitting when their next meeting achieved an attendance of only eight members when a quorum apparently required ten,
 but they persisted in their efforts, and we have the huge advantage of standing on their shoulders as we review the bylaws of
 the organization that they created nearly fifty years ago.
@@ -37,7 +37,7 @@ But the complexity that comes from adhering to governing law and planning how an
 is one of the good kinds of complexities, one that can grow with the organization and help it handle its ups and its downs.
 
 We may not have to spend the $16.55 that they discovered they would need for the membership cards,
-but we owe it to ourselves, and arguably to them as well, to make our virtual membership cards something we can be proud to hold.
+but we owe it to ourselves, and arguably to them as well, to make our virtual membership cards something we can be proud to hold onto.
 
 ## STCLC restated and amended bylaws documents
 
@@ -64,16 +64,16 @@ Year | Month    | Link(s)
 The STCLC still operates per the March, 2007 bylaws, since the draft from December, 2014 has not yet been approved.
 Many of its changes will be worth considering as we review what may need to be changed from the March, 2007 bylaws version.
 
-Lists of changes in each version of the STCLC bylaws document and a list issues that motivated those changes are
+Lists of changes in each version of the STCLC bylaws document and a list of issues that motivated those changes are
 [documented here](https://gist.github.com/garhanso/7795202584f9c361576bf86195365965#file-stclc-bylaws-changes.md).
 
-As mentioned above, we know that bylaws must have been adopted back in 1973 when the STCLC was incorporated.
+We know that bylaws must have been adopted back in 1973 when the STCLC was incorporated.
 And a quote from pages 11 and 12 of Jackie Shank's excellent library history of STCLC
 (*TODO: Add link to an online copy if possible.*) says the following:
 "To be sure the Club was in compliance with regulations for non-profit organizations,
 new South Tillamook County Library Club By-Laws were written, again with the help of John Giles."
-This shows that the STCLC knew fully well that Oregon's laws governing non-profit corporations required some changes to existing organization's documents.
-We may not need to locate the first copy, or other earlier copies of the bylaws documents,
+This shows that the STCLC leaders knew very well that Oregon's laws governing non-profit corporations required some changes to existing organization's documents.
+We may not need to locate the first approved copy, or any other earlier approved copies or drafts of the bylaws documents,
 although for completeness' sake it might be a good exercise for the sub-committee to try to track them down while we still can.
 
 ## STCLC Articles of Incorporation and Articles of Amendment documents
@@ -89,11 +89,11 @@ If you enter either the STCLC name ("South Tillamook County Library Club") or it
 then a list will pop up with the documentation that has been submitted to the state on the corporation's behalf.
  
 The STCLC board notebooks apparently contain a full copy of the articles of incorporation document,
-of which the photocopy is linked above.
+of which the photocopy is linked below.
 
 The search results also show that an article of amendment was submitted and filed by the state on May 9, 1989,
 after it had been approved by the STCLC on May 2, 1989.
-Again the webpage provides access to only the first page.
+Again the webpage provides access to only the first page, as shown in the photocopy linked below.
 In the space under section 2's request to "State the article number(s) and set forth the article(s) as amended:"
 appears the tantalizing "See Reverse" reference,
 but without access to the second page we cannot tell what article(s) may have been added or modified as part of the amendment.
@@ -161,4 +161,5 @@ Here are some initial suggestions for us to consider:
   * address issues that have been raised since the current (March, 2007) bylaws were approved.
 * Objectively document the issues and the relevant changes that might be made to reduce the inconsistencies (if any are found) and to address the raised issues.
 * Present the sub-committee's documentation to the board and to the membership for item-by-item consideration and vote(s) to approve specific changes.
-* Produce an amended draft bylaws document, and possibly an amended draft articles of incorporation document for the membership to review at one regular meeting and approve (or not) at the next regular meeting.
+* Produce an amended draft bylaws document, and possibly an amended draft articles of incorporation document,
+for the membership to review at one regular meeting and approve (or not) at the next regular meeting.
