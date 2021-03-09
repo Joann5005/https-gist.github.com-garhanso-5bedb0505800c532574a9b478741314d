@@ -16,8 +16,8 @@ then one of them would volunteer to look into how to get that paperwork done.
 And if they wanted to print membership cards, well then, someone would have to go and find out exactly how expensive that might be.
 
 The minutes from that organizational meeting
-[(pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
-[(text)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
+[(pdf)](https://gist.github.com/garhanso/471f33410d69eca1434968c9a72a5d42)
+[(text)](https://gist.github.com/garhanso/ce3452f72f103027f526f5f7c01771d4)
 show a recognition that the majority of their work would continue to be fund-raising and finding more members.
 And in the days before email and websites, several of them would need to get on their phones to tell existing and prospective members
 when and where the next meeting would be held.
@@ -25,8 +25,8 @@ They also clearly knew that no organization would survive long without setting u
 and the brief "Synopsis of by-laws read." statement shows that someone had prepared a draft outline of town law for them to consider.
 
 The undated six articles in this early draft outline
-[(pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
-[(text)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
+[(pdf)](https://gist.github.com/garhanso/0492eb16bf0390cfe5ce15245a05c14a)
+[(text)](https://gist.github.com/garhanso/fc6312057ce24f6481cd63274917203d)
 may not have been the exact same synopsis that was read, but it was probably pretty close.
 They may have felt like quitting when their next meeting achieved an attendance of only eight members when a quorum apparently required ten,
 but they persisted in their efforts, and we have the huge advantage of standing on their shoulders as we review the bylaws of
@@ -48,28 +48,21 @@ in non-searchable pdf format as well as searchable markdown or text formats:
 
 Year | Month    | Link(s)
 :--- | :------- | :------------------------------------------------------------------
-1989 | December | [(pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d) &nbsp; [(text)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
-1998 | October  | [(pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d) &nbsp; [(markdown)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
-2006 | December | [(pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d) &nbsp; [(markdown)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
-2007 | March    | [(pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d) &nbsp; [(markdown)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
-2007 | December | [(pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d) &nbsp; [(color pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d) &nbsp; [(markdown)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
-
-*TODO: Remove the following old links.*
-* [December, 1989](https://gist.github.com/garhanso/b3fde067dd108392addb75ce3586b324#file-stclc-constitution-1989.md)
-* [October, 1998](https://gist.github.com/garhanso/b1d0f87588f76b8ef034e970927e0311#file-stclc-bylaws-draft-1998.md)
-* [December, 2006](https://gist.github.com/garhanso/18ef6d9b1abf5c0bf2bd915b77bb3097#file-stclc-bylaws-draft-2006.md)
-* [March, 2007](https://gist.github.com/garhanso/94fe818587819427bd69c6142f2f6515#file-stclc-bylaws-draft-2007.md)
-* [December, 2014 (unapproved draft)](https://gist.github.com/garhanso/9a551285b8a826c1899c7acf197a5dc9#file-stclc-bylaws-draft-2014.md)
+1989 | December | [(pdf)](https://gist.github.com/garhanso/815f834af9449b8869da2ce7e10901a0) &nbsp; [(text)](https://gist.github.com/garhanso/777d6618b4f64fba89d399d1fad64ae7)
+1998 | October  | [(pdf)](https://gist.github.com/garhanso/07d73128bed317eb5fc145c76bad77ae) &nbsp; [(markdown)](https://gist.github.com/garhanso/c1c55e2dc12437d62169348bdc4b5ba5)
+2006 | December | [(pdf)](https://gist.github.com/garhanso/320b1f2a4a1e5cd389691981658c758f) &nbsp; [(markdown)](https://gist.github.com/garhanso/bc0dd03c441e185be1e09a5017e0208d)
+2007 | March    | [(pdf)](https://gist.github.com/garhanso/05348289203ffa2a454b7d343ece6f94) &nbsp; [(markdown)](https://gist.github.com/garhanso/9d4372bca8f694995518777eb4e7e024)
+2014 | December | [(pdf)](https://gist.github.com/garhanso/1c869a32ce011e0db13eafad960db288) &nbsp; [(color pdf)](https://gist.github.com/garhanso/342cee6990cf94079755ebf79676e178) &nbsp; [(markdown)](https://gist.github.com/garhanso/f2fba2849bf04363c3899ded0eba17a9)
 
 The STCLC still operates per the March, 2007 bylaws, since the draft from December, 2014 has not yet been approved.
 Many of its changes will be worth considering as we review what may need to be changed from the March, 2007 bylaws version.
 
 Lists of changes in each version of the STCLC bylaws document and a list of issues that motivated those changes are
-[documented here](https://gist.github.com/garhanso/7795202584f9c361576bf86195365965#file-stclc-bylaws-changes.md).
+[documented here](https://gist.github.com/garhanso/af070020e13971f533cf25823626aacb).
 
 We know that bylaws must have been adopted back in 1973 when the STCLC was incorporated.
 And a quote from pages 11 and 12 of Jackie Shank's excellent library history of STCLC
-(*TODO: Add link to an online copy if possible.*) says the following:
+(*TODO: Add link to an online copy if available.*) says the following:
 "To be sure the Club was in compliance with regulations for non-profit organizations,
 new South Tillamook County Library Club By-Laws were written, again with the help of John Giles."
 This shows that the STCLC leaders knew very well that Oregon's laws governing non-profit corporations required some changes to existing organization's documents.
@@ -111,8 +104,8 @@ Links to the 1973 and 1989 documents can be found here:
 
 Year | Month    | Link(s)
 :--- | :------- | :------------------------------------------------------------------
-1973 | October  | [(pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
-1989 | May      | [(pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
+1973 | October  | [(pdf)](https://gist.github.com/garhanso/c23f728fe330014cf3e67273d8c273ba)
+1989 | May      | [(pdf)](https://gist.github.com/garhanso/2615e432c8183cd0e181f7179fca9327)
 
 ## Relevant Oregon state laws
 
