@@ -16,8 +16,8 @@ then one of them would volunteer to look into how to get that paperwork done.
 And if they wanted to print membership cards, well then, someone would have to go and find out exactly how expensive that might be.
 
 The minutes of that organizational meeting
-([pdf](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d))
-([text](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d))
+[(pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
+[(text)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
 shows a recognition that the majority of their work would continue to be fund-raising and finding more members.
 And in the days before email and websites, several of them would need to get on their phones to tell existing and prospective members
 when and where the next meeting would be held.
@@ -25,8 +25,8 @@ They also clearly knew that no organization would survive long without setting u
 and the brief "Synopsis of by-laws read." statement shows that someone had prepared a draft outline of town law for them to consider.
 
 The six articles in this early draft outline
-([pdf](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d))
-([text](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d))
+[pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
+[text)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
 may not have been that exact synopsis that was read, but it was probably pretty close.
 They may have felt like quitting when their next meeting achieved an attendance of only eight members when a quorum apparently required ten,
 but they persisted in their efforts, and we have the huge advantage of standing on their shoulders as we review the bylaws of
@@ -48,11 +48,11 @@ in non-searchable pdf format as well as searchable markdown or text formats:
 
 Year | Month    | Link(s)
 :--- | :------- | :------------------------------------------------------------------
-1989 | December | ([pdf](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)) &nbsp; ([text](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d))
-1998 | October  | ([pdf](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)) &nbsp; ([markdown](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d))
-2006 | December | ([pdf](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)) &nbsp; ([markdown](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d))
-2007 | March    | ([pdf](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)) &nbsp; ([markdown](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d))
-2007 | December | ([pdf](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)) &nbsp; ([color pdf](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d &nbsp; [markdown](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d))
+1989 | December | [(pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d) &nbsp; [(text)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
+1998 | October  | [(pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d) &nbsp; [(markdown)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
+2006 | December | [(pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d) &nbsp; [(markdown)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
+2007 | March    | [(pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d) &nbsp; [(markdown)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
+2007 | December | [(pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d) &nbsp; [(color pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d) &nbsp; [(markdown)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
 
 *TODO: Remove the following old links.*
 * [December, 1989](https://gist.github.com/garhanso/b3fde067dd108392addb75ce3586b324#file-stclc-constitution-1989.md)
@@ -111,8 +111,8 @@ Links to the 1973 and 1989 documents can be found here:
 
 Year | Month    | Link(s)
 :--- | :------- | :------------------------------------------------------------------
-1973 | October  | ([pdf](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d))
-1989 | May      | ([pdf](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d))
+1973 | October  | [(pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
+1989 | May      | [(pdf)](https://gist.github.com/garhanso/5bedb0505800c532574a9b478741314d)
 
 ## Relevant Oregon state laws
 
@@ -129,13 +129,13 @@ Links to current and some historical ORS 65 and ORS 61 documents can be found he
 
 ORS | Edition| Link(s)
 :---| :----- | :------------------------------------------------------------------
-61  | 1971   | ([pdf](https://archives.oregonlegislature.gov/ORS_Archives/1971-Chapter-061.pdf))
-61  | 1973   | ([pdf](https://archives.oregonlegislature.gov/ORS_Archives/1973-Chapter-061.pdf))
-61  | 1975   | ([pdf](https://archives.oregonlegislature.gov/ORS_Archives/1975-Chapter-061.pdf))
-61  | 1987   | ([pdf](https://archives.oregonlegislature.gov/ORS_Archives/1987-Chapter-061.pdf))
-61  | 1989   | ([pdf](https://archives.oregonlegislature.gov/ORS_Archives/1989-Chapter-061.pdf))
-65  | 1989   | ([pdf](https://archives.oregonlegislature.gov/ORS_Archives/1989-Chapter-065.pdf))
-65  | 2019   | ([html](https://www.oregonlegislature.gov/bills_laws/ors/ors065.html))
+61  | 1971   | [(pdf)](https://archives.oregonlegislature.gov/ORS_Archives/1971-Chapter-061.pdf)
+61  | 1973   | [(pdf)](https://archives.oregonlegislature.gov/ORS_Archives/1973-Chapter-061.pdf)
+61  | 1975   | [(pdf)](https://archives.oregonlegislature.gov/ORS_Archives/1975-Chapter-061.pdf)
+61  | 1987   | [(pdf)](https://archives.oregonlegislature.gov/ORS_Archives/1987-Chapter-061.pdf)
+61  | 1989   | [(pdf)](https://archives.oregonlegislature.gov/ORS_Archives/1989-Chapter-061.pdf)
+65  | 1989   | [(pdf)](https://archives.oregonlegislature.gov/ORS_Archives/1989-Chapter-065.pdf)
+65  | 2019   | [(html)](https://www.oregonlegislature.gov/bills_laws/ors/ors065.html)
 
 Here are just a couple of relevant references from ORS 65 and the earlier ORS 61:
 * ORS 65.047 and the earlier ORS 61.311 describe Articles of Incorporation documents and what they must contain.
